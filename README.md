@@ -1,4 +1,4 @@
-# TaledensInvManagerUpdatedUnofficial 
+# TaledensInvManager - Unofficial Dynamic Update Edition 
 My goal is to create a companion mod for TIM that will dynamically update the script
 
 What does the Companion Mod do?
