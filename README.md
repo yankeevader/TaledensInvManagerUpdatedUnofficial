@@ -7,6 +7,8 @@ This mod is a comprehensive configuration gathering tool for Space Engineers tha
 
 Scans the entire game and installed mods to collect detailed information about:
 
+Specifically it will read the data from assemblers and refineries (including basic and survival kits)
+
 Ore mappings (how ores refine into ingots)
 Item types
 Crafting/production recipes
